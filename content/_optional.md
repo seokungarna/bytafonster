@@ -1,9 +1,9 @@
 ---
 meta:
-  canonicalLink: 'https://xn--taklggarehelsingborg-ezb.nu'
-  description: 'Takläggare i Helsingborg med lång erfarenhet. Kontakta oss för gratis besiktning idag! Ring eller maila, eller använd vårat formulär.'
+  canonicalLink: 'https://www.xn--byta-fnster-wfb.nu'
+  description: 'Fönsterspecialister med lång erfarenhet. Kontakta oss för att byta fönster redan idag! Du kan ringa, maila, eller använd vårat formulär.'
   noindex: false
-  title: 'Takläggare Helsingborg'
+  title: 'Byta fönster'
 featuredImage: ''
 gallery:
   - alt: ''
