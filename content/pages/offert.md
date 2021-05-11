@@ -2,7 +2,7 @@
 template: ContactPage
 slug: offert
 title: Begär offert
-featuredImage: ../images/window1.jpg
+featuredImage: ../images/window1.webp
 subtitle: Kontakta oss enkelt via formuläret nedan, så får du svar så snart som möjligt.
 address: 'Rosengatan 5'
 phone: 08 951 852 631
