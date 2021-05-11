@@ -4,9 +4,9 @@ slug: fonstertyper
 title: Fönstertyper
 featuredImage: '../images/window2.jpg'
 offertknapp: 'Begär offert'
-subtitle: Information om våra tjänster.
+subtitle:
 meta:
-  description:  Här hittar du information om våra tjänster.
+  description:  
   title: Fonsterbyte
 ---
 
