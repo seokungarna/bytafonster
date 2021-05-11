@@ -3,7 +3,7 @@ template: HomePage
 slug: ''
 offertknapp: 'Begär offert'
 title: Byta fönster
-featuredImage: './images/window1.jpg'
+featuredImage: './images/window1.webp'
 subtitle: 'Byta fönster hjälper dig hitta och installera nya, fräscha fönster i din bostad. Ring eller maila, eller använd vårat formulär.'
 meta:
   description: Byta fönster hjälper dig hitta och installera nya, fräscha fönster i din bostad. Kontakta oss för gratis offert idag! Ring eller maila, eller använd vårat formulär.
