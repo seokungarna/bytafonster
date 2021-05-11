@@ -2,7 +2,7 @@ const postcssPresetEnv = require('postcss-preset-env')
 
 module.exports = {
   siteMetadata: {
-    title: 'xn--byta-fnster-wfb.nu',
+    title: 'Byta fönster',
     siteUrl: 'https://xn--byta-fnster-wfb.nu'
   },
   plugins: [
@@ -36,7 +36,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'xn--byta-fnster-wfb.nu',
+        name: 'Byta fönster',
         short_name: 'xn--byta-fnster-wfb.nu',
         start_url: '/',
         background_color: '#0b05ae',
