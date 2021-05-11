@@ -20,8 +20,7 @@ PVC-fönster är ett mycket populärt fönster av flera olika anledningar. Dom g
 
 ##Aluminium
 
-Aluminiumfönster håller länge, det blir relativt lätta fönster eftersom aluminium inte väger så mycket. Dom är precis som PCV fönstren lätta att underhålla och ger god isolering men ibland kan det vara så att de inte håller värmen så bra. Det beror på fönstrets s.k. U-värde, för att fönstret ska hålla värmen bra ska det ha ett lågt U-värde. Ett treglasfönster som är det mest energieffektiva fönster har ett U-värde på 
-1,3. 
+Aluminiumfönster håller länge, det blir relativt lätta fönster eftersom aluminium inte väger så mycket. Dom är precis som PCV fönstren lätta att underhålla och ger god isolering men ibland kan det vara så att de inte håller värmen så bra. Det beror på fönstrets s.k. U-värde, för att fönstret ska hålla värmen bra ska det ha ett lågt U-värde. Ett treglasfönster som är det mest energieffektiva fönster har ett U-värde på 1,3. 
 
 ##Träfönster
 
